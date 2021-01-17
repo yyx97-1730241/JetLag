@@ -1,0 +1,10 @@
+C:\Users\yyx88\source\repos\jetlag\bin\Release\jetlag.exe.config
+C:\Users\yyx88\source\repos\jetlag\bin\Release\jetlag.exe
+C:\Users\yyx88\source\repos\jetlag\bin\Release\jetlag.pdb
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.csprojAssemblyReference.cache
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.frame.resources
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.Properties.Resources.resources
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.csproj.GenerateResource.cache
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.csproj.CoreCompileInputs.cache
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.exe
+C:\Users\yyx88\source\repos\jetlag\obj\Release\jetlag.pdb
